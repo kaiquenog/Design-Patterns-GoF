@@ -1,4 +1,4 @@
-package state.conta;
+package org.example.behavioralPatterns.state.conta;
 
 public class testStatusConta {
 

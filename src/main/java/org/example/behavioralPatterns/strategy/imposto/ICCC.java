@@ -1,4 +1,4 @@
-package strategy.imposto;
+package org.example.behavioralPatterns.strategy.imposto;
 
 public class ICCC  implements Imposto{
 

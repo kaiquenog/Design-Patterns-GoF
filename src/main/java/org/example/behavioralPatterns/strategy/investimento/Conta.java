@@ -1,4 +1,4 @@
-package strategy.investimento;
+package org.example.behavioralPatterns.strategy.investimento;
 
 class Conta {
     private double saldo;

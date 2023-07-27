@@ -1,4 +1,4 @@
-package strategy.investimento;
+package org.example.behavioralPatterns.strategy.investimento;
 
 import java.util.Random;
 

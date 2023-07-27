@@ -1,4 +1,4 @@
-package builder;
+package org.example.creationalPatterns.builder;
 
 import java.util.Calendar;
 import java.util.List;

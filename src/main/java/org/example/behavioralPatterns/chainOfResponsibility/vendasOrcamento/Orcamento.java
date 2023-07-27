@@ -1,4 +1,4 @@
-package chainOfResponsibility.vendasOrcamento;
+package org.example.behavioralPatterns.chainOfResponsibility.vendasOrcamento;
 
 import java.util.ArrayList;
 import java.util.Collections;

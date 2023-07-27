@@ -1,6 +1,7 @@
 package org.example.behavioralPatterns.templateMethod.imposto;
 
-import chainOfResponsibility.vendasOrcamento.EnumItens;
+
+import org.example.behavioralPatterns.chainOfResponsibility.vendasOrcamento.EnumItens;
 
 public class TemplateMehotdTest {
 

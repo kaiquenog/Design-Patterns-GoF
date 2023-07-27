@@ -1,4 +1,4 @@
-package state.orcamento;
+package org.example.behavioralPatterns.state.orcamento;
 
 public class Reprovado implements EstadoDeUmOrcamento {
 

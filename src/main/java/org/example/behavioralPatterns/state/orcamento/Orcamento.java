@@ -1,6 +1,8 @@
-package state.orcamento;
+package org.example.behavioralPatterns.state.orcamento;
 
-import chainOfResponsibility.vendasOrcamento.Item;
+
+
+import org.example.behavioralPatterns.chainOfResponsibility.vendasOrcamento.Item;
 
 import java.util.ArrayList;
 import java.util.Collections;

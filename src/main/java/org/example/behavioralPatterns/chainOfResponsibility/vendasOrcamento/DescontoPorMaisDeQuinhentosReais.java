@@ -1,4 +1,4 @@
-package chainOfResponsibility.vendasOrcamento;
+package org.example.behavioralPatterns.chainOfResponsibility.vendasOrcamento;
 
 public class DescontoPorMaisDeQuinhentosReais implements Desconto {
     private Desconto proximo;

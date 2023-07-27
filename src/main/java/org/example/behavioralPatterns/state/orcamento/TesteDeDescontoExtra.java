@@ -1,4 +1,4 @@
-package state.orcamento;
+package org.example.behavioralPatterns.state.orcamento;
 
 public class TesteDeDescontoExtra {
     public static void main(String[] args) {

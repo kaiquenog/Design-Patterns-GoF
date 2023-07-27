@@ -1,4 +1,4 @@
-package builder;
+package org.example.creationalPatterns.builder;
 
 public class ItemDaNota {
     private String descricao;
